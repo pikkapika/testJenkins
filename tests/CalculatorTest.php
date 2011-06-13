@@ -1,6 +1,6 @@
 <?php
 
-require_once(dirname(__FILE__) . '/src/Calculator.php');
+require_once(dirname(__FILE__) . '/../src/Calculator.php');
 
 
 /**
