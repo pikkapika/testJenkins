@@ -9,8 +9,6 @@ require_once(dirname(__FILE__) . '/../src/Calculator.php');
  */
 class CalculatorTest extends PHPUnit_Framework_TestCase
 {
-
-
     /**
      * @var Calculator
      */
