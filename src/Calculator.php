@@ -4,6 +4,7 @@
  */
 class Calculator
 {
+
     /**
      * @todo Implement add().
      */
