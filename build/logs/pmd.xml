@@ -1,3 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<pmd version="1.1.0" timestamp="2011-06-12T19:56:01-07:00">
+<pmd version="1.1.0" timestamp="2011-06-12T21:44:47-07:00">
+  <file name="/Library/WebServer/Documents/testJenkins/src/Calculator.php">
+    <violation beginline="10" endline="10" rule="ShortVariable" ruleset="Naming Rules" externalInfoUrl="http://phpmd.org/rules/naming.html#shortvariable" priority="3">
+      Avoid variables with short names like $a
+    </violation>
+    <violation beginline="10" endline="10" rule="ShortVariable" ruleset="Naming Rules" externalInfoUrl="http://phpmd.org/rules/naming.html#shortvariable" priority="3">
+      Avoid variables with short names like $b
+    </violation>
+  </file>
 </pmd>

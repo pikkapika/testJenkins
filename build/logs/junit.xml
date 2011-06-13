@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="testJenkins" tests="4" assertions="4" failures="0" errors="0" time="0.008458">
+    <testsuite name="CalculatorTest" file="/Library/WebServer/Documents/testJenkins/tests/CalculatorTest.php" tests="4" assertions="4" failures="0" errors="0" time="0.008458">
+      <testcase name="testAdd" class="CalculatorTest" file="/Library/WebServer/Documents/testJenkins/tests/CalculatorTest.php" line="36" assertions="1" time="0.003757"/>
+      <testcase name="testAdd2" class="CalculatorTest" file="/Library/WebServer/Documents/testJenkins/tests/CalculatorTest.php" line="47" assertions="1" time="0.001441"/>
+      <testcase name="testAdd3" class="CalculatorTest" file="/Library/WebServer/Documents/testJenkins/tests/CalculatorTest.php" line="58" assertions="1" time="0.001458"/>
+      <testcase name="testAdd4" class="CalculatorTest" file="/Library/WebServer/Documents/testJenkins/tests/CalculatorTest.php" line="69" assertions="1" time="0.001802"/>
+    </testsuite>
+  </testsuite>
+</testsuites>

@@ -6,39 +6,17 @@
         <TotalClasses>1</TotalClasses>
         <ConcreteClasses>1</ConcreteClasses>
         <AbstractClasses>0</AbstractClasses>
-        <Ca>1</Ca>
+        <Ca>0</Ca>
         <Ce>0</Ce>
         <A>0</A>
         <I>0</I>
         <D>1</D>
       </Stats>
       <ConcreteClasses>
-        <Class sourceFile="/Library/WebServer/Documents/testJenkins/config/ProjectConfiguration.class.php">ProjectConfiguration</Class>
+        <Class sourceFile="/Library/WebServer/Documents/testJenkins/src/Calculator.php">Calculator</Class>
       </ConcreteClasses>
       <AbstractClasses/>
       <DependsUpon/>
-      <UsedBy>
-        <Package>testJenkins\form</Package>
-      </UsedBy>
-    </Package>
-    <Package name="testJenkins\form">
-      <Stats>
-        <TotalClasses>1</TotalClasses>
-        <ConcreteClasses>1</ConcreteClasses>
-        <AbstractClasses>0</AbstractClasses>
-        <Ca>0</Ca>
-        <Ce>1</Ce>
-        <A>0</A>
-        <I>1</I>
-        <D>0</D>
-      </Stats>
-      <ConcreteClasses>
-        <Class sourceFile="/Library/WebServer/Documents/testJenkins/lib/form/BaseForm.class.php">BaseForm</Class>
-      </ConcreteClasses>
-      <AbstractClasses/>
-      <DependsUpon>
-        <Package>+global</Package>
-      </DependsUpon>
       <UsedBy/>
     </Package>
   </Packages>
